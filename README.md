@@ -10,5 +10,5 @@ The project aims to develop a library capable of analyzing received emails. In p
 
 The provided dataset is `spam_dataset.csv`.
 
-You can access the project by referring to the `Email Analysis Project.ipynb` notebook.<br>
+You can access the project by referring to the `Spam Detector project.ipynb` notebook.<br>
 Additionally, the Python library `email_analysis_library` contains all the custom functions utilized throughout the project, which are divided into the modules `preprocessing`, `spam_detection`, `lda`, and `ner`.
